@@ -14,7 +14,7 @@
   margin-bottom: 12px;
   
 }
-.buttons, .buttonss, .download{
+.buttons{
   width: 74px;
   height: 24px;
   background-color: white;
@@ -30,7 +30,84 @@
   color: #000000;
   line-height: 24px;
 }
-
+a{
+  background-color: white;
+  margin: 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-image: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, sans-serif;
+  cursor: pointer;
+  color: #000000;
+  line-height: 24px;
+}
+.purp-buttonss{
+  width: 94px;
+  height: 24px;
+  background-color: white;
+  margin: 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-image: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, sans-serif;
+  cursor: pointer;
+  color: #000000;
+  line-height: 24px;
+}
+.feat-buttonss{
+  width: 99px;
+  height: 24px;
+  background-color: white;
+  margin: 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-image: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, sans-serif;
+  cursor: pointer;
+  color: #000000;
+  line-height: 24px;
+}
+.top-buttonss{
+  width: 79px;
+  height: 24px;
+  background-color: white;
+  margin: 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-image: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, sans-serif;
+  cursor: pointer;
+  color: #000000;
+  line-height: 24px;
+}
+.down-buttonss{
+  width: 111px;
+  height: 24px;
+  background-color: white;
+  margin: 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-image: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, sans-serif;
+  cursor: pointer;
+  color: #000000;
+  line-height: 24px;
+}
 
 .div1{
   display: grid;
